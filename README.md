@@ -2,6 +2,10 @@
 
 by Simon Renblad
 
+![](stegosaurus.jpeg)
+
+*This image hides a small python payload.*
+
 # Explanation
 
 These scripts embed a python script in an image file. 
